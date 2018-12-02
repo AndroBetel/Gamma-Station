@@ -130,8 +130,8 @@
 	multiple_sprites = 1 */
 //TG-stuff
 /obj/item/ammo_box/a357
-	name = "ammo box (.357)"
-	desc = "A box of .357 ammo"
+	name = "speedloader (.357)"
+	desc = "Speedloader of .357 ammo"
 	icon_state = "357"
 	ammo_type = /obj/item/ammo_casing/a357
 	max_ammo = 7
